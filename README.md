@@ -92,7 +92,7 @@ INSERT INTO Patients (name, age, gender, contact_info) VALUES ('John Doe', 30, '
 3.Appendix C: Visualizations:
 
  |patient_name | appointement_data |doctor_name | purpose    |
- |John Doe     | 2020-01-05        | Dr.Smith   | Consulation|
+  |John Doe     | 2020-01-05        | Dr.Smith   | Consulation|
  
 # Check Database and Tables:
 
