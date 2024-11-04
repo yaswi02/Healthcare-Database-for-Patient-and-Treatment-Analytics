@@ -81,7 +81,9 @@ INSERT INTO Patients (name, age, gender, contact_info) VALUES ('John Doe', 30, '
 
 2.	Appendix B: Sample Data:
 . Provide a few rows of data for each table
--- Sample Data for Patients Table
+
+    -- Sample Data for Patients Table
+  	
 | patient_id | name         | age | gender | contact_info     |
 |------------|--------------|-----|--------|------------------|
 | 1          | John Doe     | 30  | Male   | 123-456-7890     |
